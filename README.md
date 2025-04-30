@@ -20,7 +20,7 @@ This project is a Java-based Selenium automation script that tests form interact
 
 ## 🔧 Setup Instructions
 
-1. **Install Java (JDK 8 or higher).**
+1. **Install Java (JDK 19 or higher).**
 2. **Install WebDrivers:**
    - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
    - [GeckoDriver (for Firefox)](https://github.com/mozilla/geckodriver/releases)
